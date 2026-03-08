@@ -3,4 +3,4 @@ Sistem Manajemen Toko ElectroMart by Fajri Algifari
 
 Study Case = Electronic Store
 
-Main Tools = VScode, MySQL Workbench, and some AI Tools hehe :)
+Main Tools = VScode, MySQL Workbench, my Brain, and some AI Tools hehe :)
