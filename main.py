@@ -13,7 +13,7 @@ def connect_db():
         connection = mysql.connector.connect(
             host="localhost",
             user="root",
-            password="Rockefeller123",
+            password="your_password_here",
             database="electronic_store"
         )
         return connection
@@ -485,4 +485,5 @@ def show_menu():
 # =============================================
 # JALANKAN PROGRAM
 # =============================================
+
 show_menu()
